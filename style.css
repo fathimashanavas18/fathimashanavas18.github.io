@@ -1,0 +1,14 @@
+h1{
+    colour: rgb(128, 0, 6);
+    background-color: rgb(157, 165, 42);
+}
+.sample{
+    colour: brown ;
+    background-color: rgb(46, 165, 42);
+}
+#work{
+    font-size: 50px;
+}
+.hello:hover{
+    color:chocolate;
+}
